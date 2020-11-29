@@ -60,7 +60,7 @@ if __name__ == '__main__':
         description="testsinyaml: Define your test cases in YAML and they will get executed and the result will be shared. ",
         author="chowmean",
         author_email="gaurav.dev.iiitm@gmail.com",
-        url="https://github.com/chowmean/azureips",
+        url="https://github.com/chowmean/testsinyaml",
         keywords=["python","tests","test_automation"],
         install_requires=get_install_requirements(),
         packages=["testsinyaml","testsinyaml.executers"],

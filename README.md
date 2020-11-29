@@ -2,10 +2,15 @@
 
 #### Define your test cases in yaml and they will get executed and result will be shared. 
 
+### Installation
+```
+pip install testsinyaml
+```
+
 ### Usage:
 
 ```
-from testinyaml import tests
+from testsinyaml import tests
 tests.execute(tests.yaml)
 ```
 How your tests.yaml should look like?
